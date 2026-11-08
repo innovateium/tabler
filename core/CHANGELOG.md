@@ -1,5 +1,14 @@
 # @tabler/core
 
+## 1.7.4
+
+### Patch Changes
+
+- 7ecb816: Fixed `.card-table` bottom border on the last `tfoot` row and on row header `th` cells, and kept the rule above a `tfoot`.
+- 4d92aae: Updated `$border-color-translucent-dark` to white at 8% so card, table and dropdown borders stay visible in dark mode.
+- dd50698: Fixed Tabler Icons webfont `.ti` size in `.empty-icon` and its alignment in `.dropdown-item-icon`.
+- 141b9f3: Fixed dropdown menus in an expanded `.navbar` overflowing the viewport edge by letting Popper position them.
+
 ## 1.7.3
 
 ### Patch Changes
